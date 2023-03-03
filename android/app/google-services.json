@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "641475881348",
+    "project_id": "toturu-a6162",
+    "storage_bucket": "toturu-a6162.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641475881348:android:461edefb671b9c6917d5d1",
+        "android_client_info": {
+          "package_name": "com.example.toturo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641475881348-mlg8qle8kvmbqkhaj08dgbja5jvj1mj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZu794M7QKabLc2rckplvx899Kg5CsJDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641475881348-mlg8qle8kvmbqkhaj08dgbja5jvj1mj7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "641475881348-8eqbsi76splo35j7br71p3j43sqa2grj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.toturo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
